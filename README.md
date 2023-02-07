@@ -1,0 +1,2 @@
+Coffee Machine.
+This project is about building a coffee machine. It is a coffee machine that will accept cash from the users, Ask for the kind of coffee the user needs(lattee,espresso and cappuccino), check if the resources available can make the choice of the users. If it can make the choice of the user, it will get it ready, and refund change if the user has one  and so til the resources available finishes.
